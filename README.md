@@ -1,2 +1,2 @@
-# lukevbamacrotools
-Luke's Excel Macro Toolbox
+# Altus Macro Tools (AMT)
+Excel Macro Toolbox for more efficient financial modelling.
