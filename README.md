@@ -10,6 +10,7 @@ Latest functionality as of January 9, 2025
 Installation Guide:
 1. Download the .xlam add-in file
 2. Copy and paste the .xlam file in the /Microsoft/AddIns folder
+3. Enable the Add-In in the Excel Preferences menu and add it to a Custom Tab and Group.
 
 Update Guide:
 1. Run the CheckForUpdate macro
